@@ -3,7 +3,7 @@
 EDTS (https://github.com/tjarvstrand/edts) pack for emacs-live (https://github.com/overtone/emacs-live).
 
 Install https://github.com/vimalearnest/erlang-pack first.
-Then clone edts-pack to ~/.live-packs and add following to your ~/.emacs-live.el:
+Then clone edts-pack to ~/.live-packs and add the following to your ~/.emacs-live.el:
 
 (live-apend-packs '(~/.live-packs/erlang-pack/ ~/.live-packs/edts-pack)).
 
